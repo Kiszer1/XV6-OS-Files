@@ -1,3 +1,5 @@
+An implementation of file-seek and a random number generator device using lfsr
+
 A fork of xv6 with support for devcontainer.
 
 # Installation
